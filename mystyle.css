@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    font: outline;;
+    text-align: center;
+    padding-top: 5%;
+    font-family: Helvetica;
+}
+
+.text{
+    align-items: center;
+    text-align: center;
+    font-family: Helvetica;
+    color: black;
+    text-align: "center";
+    font-size: 19px;
+    padding-top: 4%;
+}

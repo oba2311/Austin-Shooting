@@ -3,13 +3,13 @@ h1{
     font: outline;;
     text-align: center;
     padding-top: 5%;
-    font-family: Helvetica;
+    font-family: Geneva, Helvetica, sans-serif; 
 }
 
 .text{
     align-items: center;
     text-align: center;
-    font-family: Helvetica;
+    font-family: Geneva, Helvetica, sans-serif; 
     color: black;
     text-align: "center";
     font-size: 19px;

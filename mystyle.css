@@ -15,3 +15,8 @@ h1{
     font-size: 19px;
     padding-top: 4%;
 }
+
+.map{
+    width:fit-content;
+    margin: 0 auto;
+}
